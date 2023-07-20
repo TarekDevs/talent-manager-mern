@@ -1,0 +1,9 @@
+install these modules before running the project :
+npm install express
+npm install nodemon -D
+npm install mongoose
+npm install dotenv
+npm install --save express-async-handler
+
+to run the application :
+npm run dev
